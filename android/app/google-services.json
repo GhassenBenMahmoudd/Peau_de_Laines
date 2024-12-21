@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270866217728",
+    "project_id": "peaudelaine-4fdad",
+    "storage_bucket": "peaudelaine-4fdad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270866217728:android:9a80c5b2f2a991814351e5",
+        "android_client_info": {
+          "package_name": "com.example.peaudelaine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270866217728-v6qh8oasbu8u33aslov2i5le9jgf3d6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCsF9RIz1LANw5BcgnXzcGbOfX9A_TylI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270866217728-v6qh8oasbu8u33aslov2i5le9jgf3d6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
